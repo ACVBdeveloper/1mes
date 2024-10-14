@@ -215,5 +215,5 @@ function validate() {
 }
 
 function alerta() {
-    swal("Desculpa!", "Não pode Entrar, você não  ser Isabela Santana Meireles :(")
+    swal("Desculpa!", "Não pode Entrar, você não é Isabela Santana Meireles :(")
 }
